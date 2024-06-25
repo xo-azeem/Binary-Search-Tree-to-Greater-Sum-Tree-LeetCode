@@ -28,7 +28,7 @@ Example 2:
 
 My Solution Analysis:
 
-<div align = "center" width="300" height="300">
+<div align = "center" width="12" height="12">
 
   ![image](https://github.com/xo-azeem/Binary-Search-Tree-to-Greater-Sum-Tree-LeetCode/assets/171427226/80025d2c-5613-424e-abf3-0d64d4d96dd7)
 
