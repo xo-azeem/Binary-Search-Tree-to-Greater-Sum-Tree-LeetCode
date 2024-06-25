@@ -12,7 +12,7 @@ As a reminder, a binary search tree is a tree that satisfies these constraints:
 
 Example 1:
 
-<div align="center" style="width: 130px; height: 50px;">
+<div align="center" style="width: 100; height: 100;">
   
   ![image](https://github.com/xo-azeem/Binary-Search-Tree-to-Greater-Sum-Tree-LeetCode/assets/171427226/ebb240f1-9aa5-4b98-9ed8-1cd9b1c9e30f)
 
