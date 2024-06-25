@@ -14,8 +14,7 @@ Example 1:
 
 <div align = "center">
 
-  ![image](https://github.com/xo-azeem/Binary-Search-Tree-to-Greater-Sum-Tree-LeetCode/assets/171427226/c6528bb3-6f46-43a9-8771-64b55e671873)
-
+  <img src= "![image](https://github.com/xo-azeem/Binary-Search-Tree-to-Greater-Sum-Tree-LeetCode/assets/171427226/a109ea33-2702-4291-9542-ad6fba6cdfca)" alt="Example 1" width="10" height="10">
 </div>
 
 > Input: root = [4,1,6,0,2,5,7,null,null,null,3,null,null,null,8]</br>
