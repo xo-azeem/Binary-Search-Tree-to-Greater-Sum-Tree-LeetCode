@@ -12,9 +12,8 @@ As a reminder, a binary search tree is a tree that satisfies these constraints:
 
 Example 1:
 
-<div align = "center">
-
-  <img src= "![image](https://github.com/xo-azeem/Binary-Search-Tree-to-Greater-Sum-Tree-LeetCode/assets/171427226/a109ea33-2702-4291-9542-ad6fba6cdfca)" width="100" height="100">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/xo-azeem/Binary-Search-Tree-to-Greater-Sum-Tree-LeetCode/main/path/to/your/image.png" width="100" height="100">
 </div>
 
 > Input: root = [4,1,6,0,2,5,7,null,null,null,3,null,null,null,8]</br>
